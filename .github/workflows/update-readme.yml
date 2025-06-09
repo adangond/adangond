@@ -3,7 +3,7 @@ name: Actualización semanal del README
 on:
   schedule:
     - cron: '0 0 * * 0'  # Se ejecuta cada domingo a las 00:00 UTC
-  workflow_dispatch:     # Permite ejecutar el workflow manualmente
+  workflow_dispatch:
 
 jobs:
   update-readme:
@@ -22,7 +22,7 @@ jobs:
 
       - name: Ejecutar script para actualizar estadísticas en el README
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          PERSONAL_GITHUB_TOKEN: ${{ secrets.PERSONAL_GITHUB_TOKEN }}
         run: python update_stats.py
 
       - name: Commit y push de cambios
@@ -32,3 +32,4 @@ jobs:
           git add README.md
           git diff-index --quiet HEAD || git commit -m "Actualización semanal automatizada de estadísticas en el README [skip ci]"
           git push
+
