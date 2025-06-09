@@ -34,6 +34,9 @@ Soy Ingeniero de Sistemas graduado en la Universidad Autónoma del Caribe, y he 
 - **MKPro:** Plataforma en desarrollo para la gestión de inventarios utilizando Python y Django.
 
 ## Mi Actividad en GitHub
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:last_update-->
+
 <!-- Badges dinámicos para reflejar tus estadísticas en GitHub -->
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adangond&show_icons=true&theme=default)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adangond&theme=default)
