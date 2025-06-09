@@ -1,7 +1,8 @@
-# ¡Hola, soy Alvaro Emilio Dangond Rojas! 👋
+# ¡Hola, soy Alvaro Dangond Rojas! 👋
 
 ## Acerca de mí
 Con más de 22 años de experiencia en liderazgo en TI y un sólido enfoque en el desarrollo de software, actualmente me especializo como **Python Developer**. Mi pasión por el análisis de datos, la automatización y la integración de sistemas me ha permitido aportar soluciones estratégicas a las organizaciones.  
+
 Soy Ingeniero de Sistemas graduado en la Universidad Autónoma del Caribe, y he complementado mi formación con certificaciones en Python, Power BI, y metodologías ágiles, lo que me posiciona de forma única entre la experiencia en gestión y la innovación tecnológica.
 
 ## Formación y Certificaciones
@@ -26,22 +27,20 @@ Soy Ingeniero de Sistemas graduado en la Universidad Autónoma del Caribe, y he 
   - Implementé estrategias de gobierno de TI y ciber resiliencia.  
   - Implementé sistemas de control de inventario y mesa de ayuda, optimizando procesos críticos.
   
-- **Correspondsias Colombia SAS - Pagafácil** (Gerente de TI, 2018 - 2022)  
+- **Corresponsales Colombia SAS - PAGAFACIL** (Gerente de TI, 2018 - 2022)  
   - Implementé interfaces de integración de datos que habilitaron nuevas funcionalidades y generaron un aumento considerable en ventas.
   - Gestioné sistemas de seguridad y control operativo, fortaleciendo la infraestructura tecnológica.
+ 
+- **Productora de Papel y Cajas de Cartón S.A. - PROPAC** (Director de Tecnología, Enero 2012 - Diciembre 2017)  
+  - **Integración de Sistemas:** Ejecuté la integración de múltiples sistemas críticos de información (ERP Macola, Winbox, WMS Tecnocedi, flujo de trabajo Prepedidos, sistema de cotizaciones Procusto) mediante interfaces a nivel de base de datos SQL Server, optimizando el flujo de datos y la eficiencia operativa en toda la organización.  
+  - **Automatización de Informes:** Desarrollé e implementé informes operativos y gerenciales automatizados utilizando macros de VBA conectadas a bases de datos SQL Server, proporcionando información crucial para la toma de decisiones y mejorando significativamente la eficiencia en la generación de reportes.
 
-## Proyectos Destacados
-- **MKPro:** Plataforma en desarrollo para la gestión de inventarios utilizando Python y Django.
+## Mi Portafolio en GitHub
+Explora mis repositorios para conocer más sobre mis soluciones en Python y otros proyectos:
+- **[MKPro](https://github.com/adangond/MKPro)** – Plataforma innovadora para la gestión de inventarios.
+- Otros repositorios estarán disponibles a medida que sigo compartiendo mis entregables y desarrollos.
 
 ## Mi Actividad en GitHub
-<!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [adangond/git-github](https://github.com/adangond/git-github) from [platzi/git-github](https://github.com/platzi/git-github)<br>
-<!--RECENT_ACTIVITY:end-->
-<!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, June 9th, 2025, 6:20:10 PM
-<!--RECENT_ACTIVITY:last_update_end-->
-
-## Estadísticas Semanales
 <!--GITHUB_STATS:start-->
 Esta tabla muestra la actividad en tus repositorios de los últimos 7 días.
 
