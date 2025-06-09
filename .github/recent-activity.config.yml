@@ -1,0 +1,6 @@
+# .github/recent-activity.config.yml
+# Configuración para la acción readme-workflows/recent-activity
+
+username: adangond     # Tu nombre de usuario de GitHub
+limit: 5               # Número máximo de eventos a mostrar
+exclude: []            # Lista de tipos de eventos a excluir (déjalo vacío para incluir todos)
