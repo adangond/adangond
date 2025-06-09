@@ -37,10 +37,6 @@ Soy Ingeniero de Sistemas graduado en la Universidad Autónoma del Caribe, y he 
 <!--RECENT_ACTIVITY:start-->
 <!--RECENT_ACTIVITY:last_update-->
 
-<!-- Badges dinámicos para reflejar tus estadísticas en GitHub -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adangond&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adangond&theme=default)
-
 ## Conecta conmigo
 - [LinkedIn](https://www.linkedin.com/in/alvarodangond)
 - [Correo electrónico](mailto:alvaro_dangond@hotmail.com)
