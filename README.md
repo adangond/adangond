@@ -45,6 +45,10 @@ Soy Ingeniero de Sistemas graduado en la Universidad Autónoma del Caribe, y he 
 Last Updated: Monday, June 9th, 2025, 5:47:45 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
+## Estadísticas Semanales
+<!--GITHUB_STATS:start-->
+<!--GITHUB_STATS:end-->
+
 ## Conecta conmigo
 - [LinkedIn](https://www.linkedin.com/in/alvarodangond)
 - [Correo electrónico](mailto:alvaro_dangond@hotmail.com)
