@@ -1,0 +1,29 @@
+name: Actualización semanal del README
+
+on:
+  schedule:
+    - cron: '0 0 * * 0'  # Se ejecuta cada domingo a las 00:00 UTC
+  workflow_dispatch:     # Permite ejecutar el workflow manualmente si lo deseas
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    name: Update Profile README
+    
+    steps:
+      - name: Checkout del repositorio
+        uses: actions/checkout@v3
+
+      - name: Ejecutar script de actualización del README
+        uses: Readme-workflows/recent-activity@v2.4.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Configurar Git y hacer commit de los cambios
+        run: |
+          git config --global user.email "alvaro_dangond@hotmail.com"
+          git config --global user.name "adangond"
+          git add README.md
+          git commit -m "Actualización semanal automatizada del README [skip ci]" || echo "Sin cambios que committear"
+          git push
+
