@@ -44,12 +44,9 @@ Explora mis repositorios para conocer más sobre mis soluciones en Python y otro
 <!--GITHUB_STATS:start-->
 Esta tabla muestra la actividad en tus repositorios de los últimos 7 días.
 
-Consultado el: 2025-06-15 03:42:17 UTC
+Consultado el: 2025-06-22 03:43:33 UTC
 
-| Repositorio | Commits en últimos 7 días | Último push |
-|-------------|---------------------------:|------------:|
-| adangond | 18 | 2025-06-09 |
-| MKPro | 9 | 2025-06-09 |
+No se encontraron commits en los últimos 7 días.
 
 <!--GITHUB_STATS:end-->
 
