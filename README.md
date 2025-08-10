@@ -44,12 +44,13 @@ Explora mis repositorios para conocer más sobre mis soluciones en Python y otro
 <!--GITHUB_STATS:start-->
 Esta tabla muestra la actividad en tus repositorios de los últimos 7 días.
 
-Consultado el: 2025-08-03 01:53:29 UTC
+Consultado el: 2025-08-10 01:50:20 UTC
 
 | Repositorio | Commits en últimos 7 días | Último push |
 |-------------|---------------------------:|------------:|
-| Prueba | 4 | 2025-07-29 |
-| django-rest | 1 | 2025-07-29 |
+| django-rest | 4 | 2025-08-04 |
+| fastapi | 3 | 2025-08-05 |
+| flask | 1 | 2025-08-05 |
 
 <!--GITHUB_STATS:end-->
 
